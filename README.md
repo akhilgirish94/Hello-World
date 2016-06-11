@@ -1,2 +1,3 @@
 # Hello-World
 Just to create a dummy repo
+This is just to get comfortable with the GitHub playing arena ...
